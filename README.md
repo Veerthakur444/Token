@@ -9,7 +9,9 @@ pip install requests
 pip install rich
 pip install bs4
 termux-setup-storage
-git clone 
+git clone https://github.com/Veerthakur444/Token/blob/main/Token.py
+cd Token
+python Token.py
 ```
 <h5 align="center"><b>VIRAT TOOL</b></h5>
 <p align="center"><img src="https://github.com/Veerthakur444/Facebook-/blob/main/Screenshot_2024-05-12-11-45-10-937_com.termux.jpg">
